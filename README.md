@@ -80,6 +80,10 @@ Ubuntu Android Studio setup - https://www.geeksforgeeks.org/how-to-install-andro
 
 
 Cheers!!! Now we are all ready for our vodQA Espresso Workshop. Eagerly awaiting to meet you all in person, till then happy coding 😊
-![pasted image 0](https://github.com/rajeshkumar-ayyadurai/espresso-notesapp-vodqa-workshop/assets/112684368/f88723b9-55b1-4bff-acac-60e6de658c88)
+
+<p align="center" width="100%">
+    <img width="33%" src="https://github.com/rajeshkumar-ayyadurai/espresso-notesapp-vodqa-workshop/assets/112684368/f88723b9-55b1-4bff-acac-60e6de658c88">
+</p>
+
 
 
