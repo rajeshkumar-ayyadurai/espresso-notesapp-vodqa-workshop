@@ -27,10 +27,10 @@
 - Click Apply and then Close
 
 ### Here are some additional references for setting up Android Studio
-Mac Android Studio setup - https://treehouse.github.io/installation-guides/mac/android-studio-mac.html
-Windows Android Studio setup - https://www.geeksforgeeks.org/guide-to-install-and-set-up-android-studio/
-Linux Android Studio setup - https://www.linuxfordevices.com/tutorials/linux/installing-android-studio-on-linux 
-Ubuntu Android Studio setup - https://www.geeksforgeeks.org/how-to-install-android-studio-on-ubuntu/
+- Mac Android Studio setup https://treehouse.github.io/installation-guides/mac/android-studio-mac.html
+- Windows Android Studio setup - https://www.geeksforgeeks.org/guide-to-install-and-set-up-android-studio/
+- Linux Android Studio setup - https://www.linuxfordevices.com/tutorials/linux/installing-android-studio-on-linux 
+- Ubuntu Android Studio setup - https://www.geeksforgeeks.org/how-to-install-android-studio-on-ubuntu/
 
 ### Demo Repo Setup
 
