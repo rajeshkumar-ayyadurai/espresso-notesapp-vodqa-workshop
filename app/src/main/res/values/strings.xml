@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Notes VodQA</string>
+    <string name="title_home">Notes</string>
+    <string name="title_profile">Profile</string>
+    <string name="profile_name">Hello World</string>
+    <string name="add_notes">Add Notes</string>
+</resources>
