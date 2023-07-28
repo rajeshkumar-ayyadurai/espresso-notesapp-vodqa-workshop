@@ -20,14 +20,14 @@
 - In the Welcome to Android Studio dialog, click Configure
 - In the Configure Android Studio dialog, click SDK Manager
 - In the SDK Manager, make sure that the following components are installed:
-  _ Android SDK Platform [Under SDK Platforms tab, Checkmark Android 12.0 (S) which has API level 31 to get this installed if not already done]
-  _ Android SDK Tools [Under SDK tools tab, checkmark Android SDK-Platform Tools to get this installed if not already done]
-  _ Android SDK Build Tools  [Under SDK tools tab, checkmark Android SDK Build Tools to version 31.0.0 and get this installed if not already done]
-  _ Android Emulator  [Under SDK tools tab, checkmark Android Emulator to get this installed if not already done]
+  - Android SDK Platform [Under SDK Platforms tab, Checkmark Android 12.0 (S) which has API level 31 to get this installed if not already done]
+  - Android SDK Tools [Under SDK tools tab, checkmark Android SDK-Platform Tools to get this installed if not already done]
+  - Android SDK Build Tools  [Under SDK tools tab, checkmark Android SDK Build Tools to version 31.0.0 and get this installed if not already done]
+  - Android Emulator  [Under SDK tools tab, checkmark Android Emulator to get this installed if not already done]
 - Click Apply and then Close
 
 ### Here are some additional references for setting up Android Studio
-- Mac Android Studio setup https://treehouse.github.io/installation-guides/mac/android-studio-mac.html
+- Mac Android Studio setup - https://treehouse.github.io/installation-guides/mac/android-studio-mac.html
 - Windows Android Studio setup - https://www.geeksforgeeks.org/guide-to-install-and-set-up-android-studio/
 - Linux Android Studio setup - https://www.linuxfordevices.com/tutorials/linux/installing-android-studio-on-linux 
 - Ubuntu Android Studio setup - https://www.geeksforgeeks.org/how-to-install-android-studio-on-ubuntu/
@@ -77,8 +77,8 @@
 - Now we can run the test, by clicking on the run button present beside the testname or by right-clicking on the test class and selecting Run 'testName' (i.e Run ‘useAppContext’)
 - To ensure proper installation and setup, check that the test passes via the Run toolbar of Android Studio
 <img width="601" alt="Screenshot 2023-07-28 at 11 40 38 AM" src="https://github.com/rajeshkumar-ayyadurai/espresso-notesapp-vodqa-workshop/assets/112684368/8d510f6e-4d11-4379-a13e-783bf2328ed1">
-
-  
+<br />
+<br />
 Cheers!!! Now we are all ready for our vodQA Espresso Workshop. Eagerly awaiting to meet you all in person, till then happy coding 😊
 
 <p align="center" width="100%">
