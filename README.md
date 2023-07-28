@@ -12,7 +12,7 @@
   
 ### Android Studio Setup
 
-- Go to the Android Studio website: ([click here](https://developer.android.com/studio)) and download the latest version of Android Studio for your operating system. (Recommended Android Studio version is 3.4 and above, to have seamless experience have the latest Android Studio version i.e Flamingo)
+- Go to the Android Studio website: ([click here](https://developer.android.com/studio)) and download the latest version of Android Studio for your operating system. (Recommended Android Studio version is 3.4 and above, to have seamless experience have the latest Android Studio version i.e Giraffe)
 - Refer beside site and ensure the Android Studio version is greater than 3.4 i.e its release date is on or after April 2019 ([click here](https://en.wikipedia.org/wiki/Android_Studio))
 - Once the download is complete, run the installer
 - Follow the on-screen instructions to install Android Studio
