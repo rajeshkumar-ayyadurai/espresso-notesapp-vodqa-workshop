@@ -3,8 +3,8 @@
 ## Setup Instructions For Espresso Workshop
 
 ### JAVA Installation
-- Open a terminal and check java version: java -version If the version is less than 1.8 or the command is not recognized you need to install java
-- Download JDK
+- Open a terminal and check java version: ```java -version``` If the version is less than 1.8 or the command is not recognized you need to install java
+- Download [JDK](http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html)
 - Open Downloads folder and double click the DMG file
 - Double click the JDK install icon
 - Click the Continue button
@@ -12,18 +12,18 @@
   
 ### Android Studio Setup
 
-- Go to the Android Studio website: (click here) and download the latest version of Android Studio for your operating system. (Recommended Android Studio version is 3.4 and above, to have seamless experience have the latest Android Studio version i.e Flamingo)
-- Refer beside site and ensure the Android Studio version is greater than 3.4 i.e its release date is on or after April 2019 (click here)
+- Go to the Android Studio website: ([click here](https://developer.android.com/studio)) and download the latest version of Android Studio for your operating system. (Recommended Android Studio version is 3.4 and above, to have seamless experience have the latest Android Studio version i.e Flamingo)
+- Refer beside site and ensure the Android Studio version is greater than 3.4 i.e its release date is on or after April 2019 ([click here](https://en.wikipedia.org/wiki/Android_Studio))
 - Once the download is complete, run the installer
 - Follow the on-screen instructions to install Android Studio
 - Once Android Studio is installed, open it
 - In the Welcome to Android Studio dialog, click Configure
 - In the Configure Android Studio dialog, click SDK Manager
 - In the SDK Manager, make sure that the following components are installed:
-  - Android SDK Platform [Under SDK Platforms tab, Checkmark Android 12.0 (S) which has API level 31 to get this installed if not already done]
-  - Android SDK Tools [Under SDK tools tab, checkmark Android SDK-Platform Tools to get this installed if not already done]
-  - Android SDK Build Tools  [Under SDK tools tab, checkmark Android SDK Build Tools to version 31.0.0 and get this installed if not already done]
-  - Android Emulator  [Under SDK tools tab, checkmark Android Emulator to get this installed if not already done]
+  - Android SDK Platform (Under SDK Platforms tab, checkmark **Android 12.0 (S) which has API level 31** to get this installed if not already done)
+  - Android SDK Tools (Under SDK tools tab, checkmark **Android SDK-Platform Tools** to get this installed if not already done)
+  - Android SDK Build Tools  (Under SDK tools tab, checkmark **Android SDK Build Tools to version 31.0.0** and get this installed if not already done)
+  - Android Emulator  (Under SDK tools tab, checkmark **Android Emulator** to get this installed if not already done)
 - Click Apply and then Close
 
 ### Here are some additional references for setting up Android Studio
@@ -37,7 +37,7 @@
 - Open Android Studio
 - In the Welcome to Android Studio dialog, click Check out project from Version Control
 - In the Choose a Version Control System dialog, select Git
-- In the Clone Repository dialog, enter repo URL i.e (vodQA-Espresso-Workshop-Repo)
+- In the Clone Repository dialog, enter repo URL i.e ([vodQA-Espresso-Workshop-Repo](https://github.com/rajeshkumar-ayyadurai/espresso-notesapp-vodqa-workshop))
 - Click Clone
 - Android Studio will clone the repo and open it in a new project window
   
@@ -77,6 +77,7 @@
 - Now we can run the test, by clicking on the run button present beside the testname or by right-clicking on the test class and selecting Run 'testName' (i.e Run ‘useAppContext’)
 - To ensure proper installation and setup, check that the test passes via the Run toolbar of Android Studio
 <img width="601" alt="Screenshot 2023-07-28 at 11 40 38 AM" src="https://github.com/rajeshkumar-ayyadurai/espresso-notesapp-vodqa-workshop/assets/112684368/8d510f6e-4d11-4379-a13e-783bf2328ed1">
+<br />
 <br />
 <br />
 Cheers!!! Now we are all ready for our vodQA Espresso Workshop. Eagerly awaiting to meet you all in person, till then happy coding 😊
