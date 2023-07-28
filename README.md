@@ -76,8 +76,10 @@ Ubuntu Android Studio setup - https://www.geeksforgeeks.org/how-to-install-andro
 
 - Now we can run the test, by clicking on the run button present beside the testname or by right-clicking on the test class and selecting Run 'testName' (i.e Run ‘useAppContext’)
 - To ensure proper installation and setup, check that the test passes via the Run toolbar of Android Studio
-<img width="601" alt="Screenshot 2023-07-28 at 11 40 38 AM" src="https://github.com/rajeshkumar-ayyadurai/espresso-notesapp-vodqa-workshop/assets/112684368/8d510f6e-4d11-4379-a13e-783bf2328ed1">  
-[#000000]`Cheers!!!` Now we are all ready for our vodQA Espresso Workshop. Eagerly awaiting to meet you all in person, till then happy coding 😊
+<img width="601" alt="Screenshot 2023-07-28 at 11 40 38 AM" src="https://github.com/rajeshkumar-ayyadurai/espresso-notesapp-vodqa-workshop/assets/112684368/8d510f6e-4d11-4379-a13e-783bf2328ed1">
+
+  
+Cheers!!! Now we are all ready for our vodQA Espresso Workshop. Eagerly awaiting to meet you all in person, till then happy coding 😊
 
 <p align="center" width="100%">
     <img width="33%" src="https://github.com/rajeshkumar-ayyadurai/espresso-notesapp-vodqa-workshop/assets/112684368/f88723b9-55b1-4bff-acac-60e6de658c88">
